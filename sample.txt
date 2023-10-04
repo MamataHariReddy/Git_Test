@@ -1,3 +1,7 @@
 Hello, This is MAMATA
+<<<<<<< HEAD
 
 this is changed in terminal
+=======
+hi changed this to check fetch and pull
+>>>>>>> 7b1fe285feb76570deed70e8887455d9b484cf28
